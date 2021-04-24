@@ -22,6 +22,7 @@ ll helper(vector<ll>& dp, vector<ll>& vec, int j, int& g) {
 int main() {
     ios::sync_with_stdio(false);
 
+
     int n, g;
     cin >> n >> g;
     vector<ll> vec(n);
