@@ -7,6 +7,7 @@ using namespace std;
 
 
 
+
 int numberOfArithmeticSlices(vector<int>& nums) {
     // at least 3...
     if (nums.size() < 3) return 0;
