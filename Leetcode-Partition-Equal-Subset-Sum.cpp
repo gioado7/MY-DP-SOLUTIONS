@@ -11,7 +11,7 @@ bool canPartition(vector<int>& nums) {
     unsigned int n = nums.size();
     for (ll i = 0; i < n; i++) sum += nums[i];
 
-    // can't divide odd number with 1
+    // can't divide odd number with 2
     if (sum % 2 == 1) return false;
 
     bool dp[n + 1][sum / 2 + 1];
