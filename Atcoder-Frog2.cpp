@@ -19,7 +19,7 @@ ll helper(vector<ll>& dp, vector<ll>& vec, int j, int& g) {
     return res;
 }
 
-int main() {
+int main2() {
     ios::sync_with_stdio(false);
 
 

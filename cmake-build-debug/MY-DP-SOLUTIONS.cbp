@@ -80,13 +80,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-Coins.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
 		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-Frog1.cpp">
 			<Option target="MY-DP-SOLUTIONS"/>
 		</Unit>
 		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-Frog2.cpp">
 			<Option target="MY-DP-SOLUTIONS"/>
 		</Unit>
-		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-vacation.cpp">
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-Grid1.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-Knapsack1.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-Knapsack2.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-LCS.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-LongestPath.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Atcoder-Vacation.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Leetcode-Arithmetic-Slices.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Leetcode-Greatest-Sum-Divisible-3.cpp">
+			<Option target="MY-DP-SOLUTIONS"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/Leetcode-Partition-Equal-Subset-Sum.cpp">
 			<Option target="MY-DP-SOLUTIONS"/>
 		</Unit>
 		<Unit filename="C:/Users/ASUS/Desktop/competitive/MY-DP-SOLUTIONS/CMakeLists.txt">

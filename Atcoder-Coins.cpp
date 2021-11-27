@@ -8,9 +8,7 @@ using namespace std;
 
 
 
-
-
-int main() {
+int m100ain() {
     ios::sync_with_stdio(false);
 
 

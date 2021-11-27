@@ -37,7 +37,7 @@ bool canPartition(vector<int>& nums) {
 
 
 // to test
-int main() {
+int main1231212() {
     ios::sync_with_stdio(false);
 
 

@@ -5,7 +5,7 @@ using namespace std;
 #define ll long long
 
 
-int main() {
+int main4() {
     ios::sync_with_stdio(false);
 
     int n, W;

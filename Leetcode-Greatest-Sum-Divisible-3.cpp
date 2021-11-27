@@ -44,7 +44,7 @@ int maxSumDivThree(vector<int>& nums) {
 }
 
 
-int main() {
+int main171() {
     ios::sync_with_stdio(false);
 
     // test1

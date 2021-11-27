@@ -29,7 +29,7 @@ int numberOfArithmeticSlices(vector<int>& nums) {
 
 
 
-int main() {
+int main151512() {
     ios::sync_with_stdio(false);
 
 

@@ -6,7 +6,7 @@ using namespace std;
 
 
 
-int main() {
+int main3() {
     ios::sync_with_stdio(false);
 
     string str1, str2;
